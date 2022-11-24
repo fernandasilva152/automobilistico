@@ -1,0 +1,10 @@
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Q7', '4', 'vermelho', 'Sedan', 2020, 'BRA2E19', 1);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Z4', '4', 'preto', 'Conversível', 2018, 'BRA20E4', 2);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Fox', '4', 'prata', 'Hatch', 2002, 'BEE4R22', 3);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Ranger', '2', 'branco', 'Picape', 2010, 'BRA0S17', 4);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('S10', '4', 'prata', 'Picape', 2015, 'LGC3M52', 5);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Strada', '2', 'prata', 'Picape', 2022, 'BRA3R52', 6);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('812', '4', 'vermelho', 'Cupê', 2020, 'PIA2A19', 7);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Corolla', '4', 'preto', 'Sedan', 2021, 'RIO2A18', 8);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Versa', '4', 'azul', 'Sedan', 2010, 'ABC1D34', 9);
+insert into carro (nome, portas, cor, modelo, ano, placa, marca_id) values ('Kwid', '4', 'preto', 'Hatch', 2008, 'CSY2O20', 10);

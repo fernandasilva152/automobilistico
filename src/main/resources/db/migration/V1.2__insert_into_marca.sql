@@ -1,0 +1,10 @@
+insert into marca (nome) values ('AUDI');
+insert into marca (nome) values ('BMW');
+insert into marca (nome) values ('VOLKSWAGEN');
+insert into marca (nome) values ('FORD');
+insert into marca (nome) values ('CHEVROLET');
+insert into marca (nome) values ('FIAT');
+insert into marca (nome) values ('FERRARI');
+insert into marca (nome) values ('TOYOTA');
+insert into marca (nome) values ('NISSAN');
+insert into marca (nome) values ('RENAULT');
